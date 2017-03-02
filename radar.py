@@ -1,5 +1,5 @@
 """
-Define el similador del Radar
+Define el simulador del Radar
 """
 
 
