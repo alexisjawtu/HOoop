@@ -6,7 +6,7 @@ import datetime
 import detector
 
 
-# DISCLAMER!!
+# DISCLAIMER!!
 # todo esta en castellano por razones didacticas
 # pero DEBEN programar en INGLES
 # uno nunca sabe quien puede leer su codigo
